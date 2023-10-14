@@ -1,0 +1,15 @@
+.menu{ 
+    list-style-type:none;
+    margin:0px ;
+    padding:0px;
+    text-align:right ;
+    background-color: aquamarine;
+}
+.menu>li{
+    display:inline;
+    font-size:20px;
+    line-height: 30px;
+    margin:20px;
+    letter-spacing:4px ;
+    cursor:pointer;
+}

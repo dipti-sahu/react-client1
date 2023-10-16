@@ -11,7 +11,7 @@ export default function Page() {
   const {state} = useContext(ctx)
   return (
     <div>
-     {state.isLoggedIn ? <Home/>:<Login/>}    
+     {state.isLoggedIn?<Home/>:<Login/>}    
     </div>
   
   )

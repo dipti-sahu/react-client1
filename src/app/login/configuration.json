@@ -1,0 +1,14 @@
+  [
+    {
+        "label":"user id",
+        "type":"text",
+        "model":"uid",
+        "tag":"input"
+    },
+    {
+        "label":"Password",
+        "type":"password",
+        "model":"pwd",
+        "tag":"input"
+    }
+]
